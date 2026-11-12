@@ -1,0 +1,6 @@
+{
+  "name": "EKONOMIKU",
+  "description": "Aplikasi pembelajaran Ekonomi Kelas X interaktif SMAN 1 Pangkep Fase E Kurikulum Merdeka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
